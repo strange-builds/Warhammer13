@@ -6,7 +6,3 @@
 	count_human = TRUE // does this speci counst as human? damn i think yeah, cause sectois are count as humans
 	total_health = 300 // they are more healthing than normal human at 3 times!!!
 
-
-// but there is problem
-// you cant spawn mob right now i dont know why
-
