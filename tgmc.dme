@@ -1864,6 +1864,7 @@
 #include "code\modules\mob\living\carbon\human\species\_species.dm"
 #include "code\modules\mob\living\carbon\human\species\hud_data.dm"
 #include "code\modules\mob\living\carbon\human\species\human.dm"
+#include "code\modules\mob\living\carbon\human\species\kosmortes.dm"
 #include "code\modules\mob\living\carbon\human\species\monkey.dm"
 #include "code\modules\mob\living\carbon\human\species\moth.dm"
 #include "code\modules\mob\living\carbon\human\species\necoarc.dm"
