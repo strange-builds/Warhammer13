@@ -45,6 +45,10 @@
 /mob/living/carbon/human/species/zombie
 	race = "Strong zombie"
 
+/mob/living/carbon/human/species/kosmortes
+
+	race = "Kosmortes"
+
 /mob/living/carbon/human/species/zombie/Initialize(mapload)
 	. = ..()
 	var/datum/outfit/outfit = pick(GLOB.survivor_outfits)

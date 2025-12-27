@@ -1,4 +1,3 @@
-
 // kosmortes are super human, here the base class for them
 /datum/species/kosmortes
 	name = "Kosmortes"
